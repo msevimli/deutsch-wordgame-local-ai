@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wortschatz title="Beispielsaetze fuer Wortliste 1">
+  <kategorie name="Adjektive">
+    <eintrag>
+      <deutsch>freundlich</deutsch>
+      <tuerkisch>Güler yüzlü / Samimi / Nazik</tuerkisch>
+      <satz>
+        <deutsch>Die Verkäuferin war sehr freundlich zu mir.</deutsch>
+        <tuerkisch>Satış görevlisi bana karşı çok güler yüzlüydü.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>unfreundlich</deutsch>
+      <tuerkisch>Kaba / Soğuk / İlgisiz</tuerkisch>
+      <satz>
+        <deutsch>Der Kunde war heute Morgen ziemlich unfreundlich.</deutsch>
+        <tuerkisch>Müşteri bu sabah oldukça kabaydı.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>früh - spät</deutsch>
+      <tuerkisch>Erken - Geç</tuerkisch>
+      <satz>
+        <deutsch>Am Montag fange ich früh an und höre spät auf.</deutsch>
+        <tuerkisch>Pazartesi erken başlıyor ve geç bitiriyorum.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>höflich</deutsch>
+      <tuerkisch>Kibar / Saygılı</tuerkisch>
+      <satz>
+        <deutsch>Sei bitte höflich zu allen Kollegen.</deutsch>
+        <tuerkisch>Lütfen tüm iş arkadaşlarına kibar ol.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>peinlich</deutsch>
+      <tuerkisch>Utanç verici / Mahcup edici</tuerkisch>
+      <satz>
+        <deutsch>Es war mir sehr peinlich, dass ich seinen Namen vergessen habe.</deutsch>
+        <tuerkisch>Onun adını unuttuğum için çok mahcup oldum.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>stressig</deutsch>
+      <tuerkisch>Stresli</tuerkisch>
+      <satz>
+        <deutsch>Diese Woche war sehr stressig, ich brauche Urlaub.</deutsch>
+        <tuerkisch>Bu hafta çok stresliydi, tatile ihtiyacım var.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>benutzt</deutsch>
+      <tuerkisch>Kullanılmış</tuerkisch>
+      <satz>
+        <deutsch>Das Handtuch ist schon benutzt, nimm bitte ein neues.</deutsch>
+        <tuerkisch>Havlu kullanılmış, lütfen yenisini al.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>breit</deutsch>
+      <tuerkisch>Geniş</tuerkisch>
+      <satz>
+        <deutsch>Die Straße ist breit genug für zwei Autos.</deutsch>
+        <tuerkisch>Cadde iki araba için yeterince geniş.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>gebraucht</deutsch>
+      <tuerkisch>İkinci el / Kullanılmış</tuerkisch>
+      <satz>
+        <deutsch>Ich habe mein Auto gebraucht verkauft.</deutsch>
+        <tuerkisch>Arabamı ikinci el olarak sattım.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>glücklich</deutsch>
+      <tuerkisch>Mutlu / Şanslı</tuerkisch>
+      <satz>
+        <deutsch>Sie ist sehr glücklich über ihre neue Arbeit.</deutsch>
+        <tuerkisch>Yeni işinden çok mutlu.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>neugierig</deutsch>
+      <tuerkisch>Meraklı</tuerkisch>
+      <satz>
+        <deutsch>Die Kinder sind neugierig und stellen viele Fragen.</deutsch>
+        <tuerkisch>Çocuklar meraklı ve çok soru soruyorlar.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>niedrig</deutsch>
+      <tuerkisch>Düşük / Alçak</tuerkisch>
+      <satz>
+        <deutsch>Der Lohn ist niedrig, aber die Arbeit macht Spaß.</deutsch>
+        <tuerkisch>Ücret düşük ama iş keyifli.</tuerkisch>
+      </satz>
+    </eintrag>
+  </kategorie>
+  <kategorie name="Nomen">
+    <eintrag>
+      <deutsch>das Altenheim, -e</deutsch>
+      <tuerkisch>Yaşlılar bakımevi / Huzurevi</tuerkisch>
+      <satz>
+        <deutsch>Meine Großmutter wohnt jetzt in einem Altenheim.</deutsch>
+        <tuerkisch>Büyükannem artık bir huzurevinde yaşıyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Arbeitskleidung, -en</deutsch>
+      <tuerkisch>İş kıyafeti</tuerkisch>
+      <satz>
+        <deutsch>In der Werkstatt muss man Arbeitskleidung tragen.</deutsch>
+        <tuerkisch>Atölyede iş kıyafeti giymek zorunlu.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Auftrag, Aufträge</deutsch>
+      <tuerkisch>Sipariş / Görev / İş emri</tuerkisch>
+      <satz>
+        <deutsch>Der neue Auftrag kommt aus Hamburg.</deutsch>
+        <tuerkisch>Yeni sipariş Hamburg'dan geliyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Bier, -e</deutsch>
+      <tuerkisch>Bira</tuerkisch>
+      <satz>
+        <deutsch>Nach der Arbeit trinken wir manchmal ein Bier.</deutsch>
+        <tuerkisch>İşten sonra bazen bir bira içiyoruz.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Blatt, Blätter</deutsch>
+      <tuerkisch>Yaprak / Sayfa / Kağıt</tuerkisch>
+      <satz>
+        <deutsch>Im Herbst fallen die Blätter von den Bäumen.</deutsch>
+        <tuerkisch>Sonbaharda yapraklar ağaçlardan düşer.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Einstand (Sg.)</deutsch>
+      <tuerkisch>İşe başlama kutlaması</tuerkisch>
+      <satz>
+        <deutsch>Zum Einstand hat er Kuchen für das ganze Team mitgebracht.</deutsch>
+        <tuerkisch>İşe başlama kutlaması için bütün takıma pasta aldı.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Entschuldigung, -en</deutsch>
+      <tuerkisch>Özür / Mazeret</tuerkisch>
+      <satz>
+        <deutsch>Der Lehrer akzeptiert keine Entschuldigung mehr.</deutsch>
+        <tuerkisch>Öğretmen artık mazeret kabul etmiyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Dokument, -e</deutsch>
+      <tuerkisch>Belge / Doküman</tuerkisch>
+      <satz>
+        <deutsch>Bitte unterschreiben Sie das Dokument hier unten.</deutsch>
+        <tuerkisch>Lütfen belgeyi aşağıya imzalayın.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Formular, -e</deutsch>
+      <tuerkisch>Form (doldurulacak evrak)</tuerkisch>
+      <satz>
+        <deutsch>Füllen Sie dieses Formular aus und unterschreiben Sie es.</deutsch>
+        <tuerkisch>Bu formu doldurun ve imzalayın.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Freude (Sg.)</deutsch>
+      <tuerkisch>Sevinç / Neşe</tuerkisch>
+      <satz>
+        <deutsch>Es macht mir große Freude, mit Kindern zu arbeiten.</deutsch>
+        <tuerkisch>Çocuklarla çalışmak bana büyük sevinç veriyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Garderobe, -n</deutsch>
+      <tuerkisch>Gardırop / Vestiyer</tuerkisch>
+      <satz>
+        <deutsch>Hängen Sie Ihren Mantel in die Garderobe.</deutsch>
+        <tuerkisch>Paltonuzu gardıropa asın.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Grund, Gründe</deutsch>
+      <tuerkisch>Sebep / Neden</tuerkisch>
+      <satz>
+        <deutsch>Was ist der Grund für deine Verspätung?</deutsch>
+        <tuerkisch>Geç kalmanın sebebi ne?</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Hausmeister, -</deutsch>
+      <tuerkisch>Kapıcı / Bina sorumlusu / Onarım sorumlusu</tuerkisch>
+      <satz>
+        <deutsch>Der Hausmeister repariert gerade die Tür.</deutsch>
+        <tuerkisch>Bina sorumlusu şu anda kapıyı tamir ediyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Hausmeisterin, -nen</deutsch>
+      <tuerkisch>Kadın kapıcı / Bina sorumlusu</tuerkisch>
+      <satz>
+        <deutsch>Unsere Hausmeisterin öffnet jeden Morgen die Bürotür.</deutsch>
+        <tuerkisch>Bina sorumlumuz her sabah ofisin kapısını açar.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Kaffeepause, -n</deutsch>
+      <tuerkisch>Kahve molası</tuerkisch>
+      <satz>
+        <deutsch>Um zehn Uhr machen wir eine kurze Kaffeepause.</deutsch>
+        <tuerkisch>Saat onda kısa bir kahve molası veriyoruz.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Lkw, -s</deutsch>
+      <tuerkisch>Kamyon / Tır</tuerkisch>
+      <satz>
+        <deutsch>Der Lkw liefert morgen die neuen Möbel.</deutsch>
+        <tuerkisch>Kamyon yarın yeni mobilyaları getirecek.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Personalbüro, -s</deutsch>
+      <tuerkisch>Personel ofisi / İnsan kaynakları bürosu</tuerkisch>
+      <satz>
+        <deutsch>Den Vertrag bekommen Sie vom Personalbüro.</deutsch>
+        <tuerkisch>Sözleşmeyi personel ofisinden alacaksınız.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Praktikum, Praktika</deutsch>
+      <tuerkisch>Staj</tuerkisch>
+      <satz>
+        <deutsch>Sie macht ein Praktikum in einer Firma in Berlin.</deutsch>
+        <tuerkisch>Berlin'deki bir firmada staj yapıyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Spezialität, -en</deutsch>
+      <tuerkisch>Uzmanlık / Yöresel veya özel lezzet</tuerkisch>
+      <satz>
+        <deutsch>Köfte ist eine türkische Spezialität.</deutsch>
+        <tuerkisch>Köfte, Türk mutfağına özgü bir lezzettir.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Teamleiter, -</deutsch>
+      <tuerkisch>Takım lideri / Grup yöneticisi</tuerkisch>
+      <satz>
+        <deutsch>Mein Teamleiter verteilt die Aufgaben für diese Woche.</deutsch>
+        <tuerkisch>Takım liderim bu haftanın görevlerini dağıtıyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Teamleiterin, -nen</deutsch>
+      <tuerkisch>Kadın takım lideri</tuerkisch>
+      <satz>
+        <deutsch>Die Teamleiterin kontrolliert die Arbeit des Teams.</deutsch>
+        <tuerkisch>Takım lideri ekibin çalışmasını kontrol eder.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Verein, -e</deutsch>
+      <tuerkisch>Dernek / Kulüp</tuerkisch>
+      <satz>
+        <deutsch>Er ist Mitglied in einem Sportverein.</deutsch>
+        <tuerkisch>O, bir spor kulübünün üyesi.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Verkehr (Sg.)</deutsch>
+      <tuerkisch>Trafik</tuerkisch>
+      <satz>
+        <deutsch>In der Stadt gibt es am Morgen viel Verkehr.</deutsch>
+        <tuerkisch>Sabahları şehirde trafik çok yoğun.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Wagen, -</deutsch>
+      <tuerkisch>Araba / Araç / Vagon</tuerkisch>
+      <satz>
+        <deutsch>Mein Wagen ist alt, aber er läuft noch gut.</deutsch>
+        <tuerkisch>Arabam eski ama hâlâ iyi gidiyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Badewanne, -n</deutsch>
+      <tuerkisch>Banyo küveti</tuerkisch>
+      <satz>
+        <deutsch>Die Kinder spielen gern in der Badewanne mit Wasser.</deutsch>
+        <tuerkisch>Çocuklar küvette suyla oynamayı seviyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Bettdecke, -n</deutsch>
+      <tuerkisch>Yorgan / Yatak örtüsü</tuerkisch>
+      <satz>
+        <deutsch>Die Bettdecke ist warm, ich schlafe sehr gut.</deutsch>
+        <tuerkisch>Yorgan sıcak, çok iyi uyuyorum.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Boden, Böden</deutsch>
+      <tuerkisch>Zemin / Yer / Toprak</tuerkisch>
+      <satz>
+        <deutsch>Das Kind spielt auf dem Boden.</deutsch>
+        <tuerkisch>Çocuk yerde oynuyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Couch, -s</deutsch>
+      <tuerkisch>Kanepe / Koltuk</tuerkisch>
+      <satz>
+        <deutsch>Abends sitzen wir gemütlich auf der Couch.</deutsch>
+        <tuerkisch>Akşamları kanepede rahatça oturuyoruz.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Decke, -n</deutsch>
+      <tuerkisch>Tavan / Battaniye</tuerkisch>
+      <satz>
+        <deutsch>Es ist kalt, hol bitte eine extra Decke.</deutsch>
+        <tuerkisch>Hava soğuk, lütfen ekstra bir battaniye getir.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Geschirr (Sg.)</deutsch>
+      <tuerkisch>Bulaşık / Mutfak eşyası</tuerkisch>
+      <satz>
+        <deutsch>Stell das schmutzige Geschirr bitte in die Spülmaschine.</deutsch>
+        <tuerkisch>Kirli bulaşıkları lütfen makineye yerleştir.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Haushalt, -e</deutsch>
+      <tuerkisch>Ev idaresi / Ev halkı</tuerkisch>
+      <satz>
+        <deutsch>Im Haushalt hilft jeder etwas mit.</deutsch>
+        <tuerkisch>Ev işlerinde herkes biraz yardım ediyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Holz, (Sg.)</deutsch>
+      <tuerkisch>Ahşap / Odun</tuerkisch>
+      <satz>
+        <deutsch>Der Tisch ist aus echtem Holz gemacht.</deutsch>
+        <tuerkisch>Masa gerçek ahşaptan yapılmış.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Karton, -s</deutsch>
+      <tuerkisch>Karton kutu / Koli</tuerkisch>
+      <satz>
+        <deutsch>Beim Umzug tragen wir die Bücher in Kartons.</deutsch>
+        <tuerkisch>Taşınırken kitapları kolilerle taşıyoruz.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Kissen, -</deutsch>
+      <tuerkisch>Yastık / Minder</tuerkisch>
+      <satz>
+        <deutsch>Ohne Kissen kann ich nicht schlafen.</deutsch>
+        <tuerkisch>Yastıksız uyuyamıyorum.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Kiste, -n</deutsch>
+      <tuerkisch>Sandık / Kasa / Kutu</tuerkisch>
+      <satz>
+        <deutsch>In der Kiste liegen alte Spielzeuge.</deutsch>
+        <tuerkisch>Sandıkta eski oyuncaklar var.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Leiter, -n</deutsch>
+      <tuerkisch>Merdiven (taşınabilir)</tuerkisch>
+      <satz>
+        <deutsch>Stell bitte die Leiter an die Wand.</deutsch>
+        <tuerkisch>Merdiveni lütfen duvara daya.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Matratze, -n</deutsch>
+      <tuerkisch>Yatak / Yatak şiltesi</tuerkisch>
+      <satz>
+        <deutsch>Diese Matratze ist zu weich für meinen Rücken.</deutsch>
+        <tuerkisch>Bu yatak sırtım için fazla yumuşak.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Metall (Sg.)</deutsch>
+      <tuerkisch>Metal</tuerkisch>
+      <satz>
+        <deutsch>Die Tür ist aus Metall, nicht aus Holz.</deutsch>
+        <tuerkisch>Kapı ahşaptan değil, metalden.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Mitbewohner, -</deutsch>
+      <tuerkisch>Ev arkadaşı (erkek)</tuerkisch>
+      <satz>
+        <deutsch>Mein Mitbewohner putzt diese Woche das Bad.</deutsch>
+        <tuerkisch>Ev arkadaşı bu hafta banyoyu temizliyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Mitbewohnerin, -nen</deutsch>
+      <tuerkisch>Ev arkadaşı (kadın)</tuerkisch>
+      <satz>
+        <deutsch>Meine Mitbewohnerin kocht heute Abend für uns beide.</deutsch>
+        <tuerkisch>Ev arkadaşım bu akşam ikimize de yemek pişiriyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Möbel (Pl.)</deutsch>
+      <tuerkisch>Mobilyalar</tuerkisch>
+      <satz>
+        <deutsch>Die neuen Möbel kommen am Freitag.</deutsch>
+        <tuerkisch>Yeni mobilyalar cuma günü geliyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Müll (Sg.)</deutsch>
+      <tuerkisch>Çöp</tuerkisch>
+      <satz>
+        <deutsch>Bring heute Abend bitte den Müll raus.</deutsch>
+        <tuerkisch>Bu akşam çöpü dışarı çıkarır mısın?</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Plastik (Sg.)</deutsch>
+      <tuerkisch>Plastik</tuerkisch>
+      <satz>
+        <deutsch>Diese Flasche ist aus Plastik, nicht aus Glas.</deutsch>
+        <tuerkisch>Bu şişe camdan değil, plastikten.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Schnäppchen, -</deutsch>
+      <tuerkisch>Kelepir / Uygun fiyatlı ürün</tuerkisch>
+      <satz>
+        <deutsch>Im Ausverkauf habe ich ein echtes Schnäppchen gemacht.</deutsch>
+        <tuerkisch>İndirimde gerçekten uygun fiyatlı bir ürün aldım.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Spülmaschine, -n</deutsch>
+      <tuerkisch>Bulaşık makinesi</tuerkisch>
+      <satz>
+        <deutsch>Die Spülmaschine ist fertig, räum sie bitte aus.</deutsch>
+        <tuerkisch>Bulaşık makinesi bitti, lütfen boşalt.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Staubsauger, -</deutsch>
+      <tuerkisch>Elektrikli süpürge</tuerkisch>
+      <satz>
+        <deutsch>Der Staubsauger ist kaputt, ich brauche einen neuen.</deutsch>
+        <tuerkisch>Elektrikli süpürge bozuldu, yenisine ihtiyacım var.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Teppich, -e</deutsch>
+      <tuerkisch>Halı</tuerkisch>
+      <satz>
+        <deutsch>Der neue Teppich passt perfekt ins Wohnzimmer.</deutsch>
+        <tuerkisch>Yeni halı oturma odasına tam oturuyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Topf, Töpfe</deutsch>
+      <tuerkisch>Tencere</tuerkisch>
+      <satz>
+        <deutsch>Der Reis kocht noch in einem großen Topf.</deutsch>
+        <tuerkisch>Pirinç hâlâ büyük bir tencerede pişiyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Umzug, Umzüge</deutsch>
+      <tuerkisch>Taşınma</tuerkisch>
+      <satz>
+        <deutsch>Der Umzug in die neue Wohnung kostet viel Zeit.</deutsch>
+        <tuerkisch>Yeni eve taşınmak çok zaman alıyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Vase, -n</deutsch>
+      <tuerkisch>Vazo</tuerkisch>
+      <satz>
+        <deutsch>Sie stellt frische Blumen in die Vase.</deutsch>
+        <tuerkisch>Taze çiçekleri vazo koyuyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>der Vorhang, Vorhänge</deutsch>
+      <tuerkisch>Perde</tuerkisch>
+      <satz>
+        <deutsch>Mach bitte die Vorhänge auf, es ist dunkel.</deutsch>
+        <tuerkisch>Lütfen perdeleri aç, hava karardı.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>die Wand, Wände</deutsch>
+      <tuerkisch>Duvar</tuerkisch>
+      <satz>
+        <deutsch>Wir streichen die Wand im Schlafzimmer weiß.</deutsch>
+        <tuerkisch>Yatak odasındaki duvarı beyaza boyuyoruz.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Werkzeug, -e</deutsch>
+      <tuerkisch>Takım / Alet / El aleti</tuerkisch>
+      <satz>
+        <deutsch>Für die Reparatur brauche ich mein Werkzeug.</deutsch>
+        <tuerkisch>Tamir için aletlerime ihtiyacım var.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>das Gespräch, -e</deutsch>
+      <tuerkisch>Konuşma / Görüşme</tuerkisch>
+      <satz>
+        <deutsch>Das Gespräch mit dem Chef war positiv.</deutsch>
+        <tuerkisch>Patronla görüşme olumlu geçti.</tuerkisch>
+      </satz>
+    </eintrag>
+  </kategorie>
+  <kategorie name="Verben">
+    <eintrag>
+      <deutsch>anfangen</deutsch>
+      <tuerkisch>Başlamak</tuerkisch>
+      <satz>
+        <deutsch>Wann fängst du morgen mit der Arbeit an?</deutsch>
+        <tuerkisch>Yarın işe ne zaman başlıyorsun?</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>danken</deutsch>
+      <tuerkisch>Teşekkür etmek</tuerkisch>
+      <satz>
+        <deutsch>Ich danke Ihnen herzlich für Ihre Hilfe.</deutsch>
+        <tuerkisch>Yardımınız için size içtenlikle teşekkür ederim.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>erklären</deutsch>
+      <tuerkisch>Açıklamak / Anlatmak</tuerkisch>
+      <satz>
+        <deutsch>Kannst du mir diesen Schritt noch einmal erklären?</deutsch>
+        <tuerkisch>Bu adımı bana bir daha açıklayabilir misin?</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>gehören</deutsch>
+      <tuerkisch>Ait olmak</tuerkisch>
+      <satz>
+        <deutsch>Wem gehört dieser Mantel?</deutsch>
+        <tuerkisch>Bu palto kimin?</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>hoffen</deutsch>
+      <tuerkisch>Umut etmek / Umak</tuerkisch>
+      <satz>
+        <deutsch>Ich hoffe, dass alles gut ausgeht.</deutsch>
+        <tuerkisch>Her şeyin iyi sonuçlanacağını umuyorum.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>klingen</deutsch>
+      <tuerkisch>Tınlamak / Kulağa bir şekilde gelmek</tuerkisch>
+      <satz>
+        <deutsch>Dein Plan klingt wirklich gut.</deutsch>
+        <tuerkisch>Planın kulağa gerçekten iyi geliyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>leiten</deutsch>
+      <tuerkisch>Yönetmek / Yönlendirmek</tuerkisch>
+      <satz>
+        <deutsch>Sie leitet die Abteilung seit zwei Jahren.</deutsch>
+        <tuerkisch>Bölümü iki yıldır o yönetiyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>reagieren</deutsch>
+      <tuerkisch>Tepki vermek / Reaksiyon göstermek</tuerkisch>
+      <satz>
+        <deutsch>Der Chef hat schnell auf die E-Mail reagiert.</deutsch>
+        <tuerkisch>Müdür e-postaya hızlıca tepki gösterdi.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>schicken</deutsch>
+      <tuerkisch>Göndermek</tuerkisch>
+      <satz>
+        <deutsch>Ich schicke dir heute Abend die Fotos.</deutsch>
+        <tuerkisch>Bu akşam sana fotoğrafları göndereceğim.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>schließen</deutsch>
+      <tuerkisch>Kapatmak / Kilitlemek</tuerkisch>
+      <satz>
+        <deutsch>Schließ bitte das Fenster, es zieht.</deutsch>
+        <tuerkisch>Lütfen pencereyi kapat, hava akımı var.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>(sich) vorstellen</deutsch>
+      <tuerkisch>Kendini tanıtmak / Hayal etmek</tuerkisch>
+      <satz>
+        <deutsch>Darf ich mich kurz vorstellen? Ich bin Ayşe.</deutsch>
+        <tuerkisch>Kendimi tanıtabilir miyim? Ben Ayşe.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>wünschen</deutsch>
+      <tuerkisch>Dilemek / İstemek</tuerkisch>
+      <satz>
+        <deutsch>Ich wünsche dir viel Erfolg bei der Prüfung.</deutsch>
+        <tuerkisch>Sınavda büyük başarı diliyorum.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>zeigen</deutsch>
+      <tuerkisch>Göstermek</tuerkisch>
+      <satz>
+        <deutsch>Zeig mir bitte, wie die Maschine funktioniert.</deutsch>
+        <tuerkisch>Makinenin nasıl çalıştığını lütfen göster.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>gießen</deutsch>
+      <tuerkisch>Sulamak / Dökmek</tuerkisch>
+      <satz>
+        <deutsch>Kannst du bitte die Blumen gießen?</deutsch>
+        <tuerkisch>Çiçekleri sulayabilir misin?</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>hängen</deutsch>
+      <tuerkisch>Asılı olmak / Asmak</tuerkisch>
+      <satz>
+        <deutsch>Das Bild hängt jetzt über dem Sofa.</deutsch>
+        <tuerkisch>Resim şimdi koltuğun üstünde asılı.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>liegen - legen</deutsch>
+      <tuerkisch>Yatmak - Yatırmak/Koymak</tuerkisch>
+      <satz>
+        <deutsch>Ich lege die Zeitschrift auf den Tisch, dort liegt sie dann.</deutsch>
+        <tuerkisch>Dergiyi masaya koyuyorum, sonra orada duruyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>reinigen</deutsch>
+      <tuerkisch>Temizlemek</tuerkisch>
+      <satz>
+        <deutsch>Er reinigt seine Schuhe jeden Abend.</deutsch>
+        <tuerkisch>Ayakkabılarını her akşam temizliyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>sitzen - setzen</deutsch>
+      <tuerkisch>Oturmak - Oturtmak/Yerleştirmek</tuerkisch>
+      <satz>
+        <deutsch>Setz das Kind auf den Stuhl, damit es bequem sitzt.</deutsch>
+        <tuerkisch>Çocuğu sandalyeye oturt ki rahat otursun.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>spülen</deutsch>
+      <tuerkisch>Bulaşık yıkamak / Durulamak</tuerkisch>
+      <satz>
+        <deutsch>Ich spüle das Geschirr und du trocknest ab.</deutsch>
+        <tuerkisch>Ben bulaşıkları yıkarım, sen kurulayırsın.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>staubsaugen</deutsch>
+      <tuerkisch>Süpürmek / Elektrikli süpürgeyle çekmek</tuerkisch>
+      <satz>
+        <deutsch>Gäste kommen, ich muss dringend staubsaugen.</deutsch>
+        <tuerkisch>Misafir gelecek, acilen süpürmem gerekiyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>stehen - stellen</deutsch>
+      <tuerkisch>Ayakta durmak - Dik koymak/Yerleştirmek</tuerkisch>
+      <satz>
+        <deutsch>Stell den Stuhl in die Ecke, dort steht er richtig.</deutsch>
+        <tuerkisch>Sandalyeyi köşeye koy, orada doğru durur.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>verhandeln</deutsch>
+      <tuerkisch>Pazarlık etmek / Müzakere etmek</tuerkisch>
+      <satz>
+        <deutsch>Wir verhandeln mit dem Vermieter über die Miete.</deutsch>
+        <tuerkisch>Ev sahibiyle kira konusunda pazarlık ediyoruz.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>wegbringen</deutsch>
+      <tuerkisch>Götürmek / Uzaklaştırmak</tuerkisch>
+      <satz>
+        <deutsch>Er bringt den alten Sperrmüll am Samstag weg.</deutsch>
+        <tuerkisch>Eski büyük çöpleri cumartesi günü götürüyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>wegwerfen</deutsch>
+      <tuerkisch>Atmak / Çöpe atmak</tuerkisch>
+      <satz>
+        <deutsch>Wirf die kaputte Glühbirne nicht in den normalen Müll.</deutsch>
+        <tuerkisch>Bozuk ampulü normal çöpe atma.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>werfen</deutsch>
+      <tuerkisch>Atmak / Fırlatmak</tuerkisch>
+      <satz>
+        <deutsch>Wirf den Ball, der Hund holt ihn zurück.</deutsch>
+        <tuerkisch>Topu at, köpek onu geri getirsin.</tuerkisch>
+      </satz>
+    </eintrag>
+  </kategorie>
+  <kategorie name="andere Wörter">
+    <eintrag>
+      <deutsch>Bescheid sagen</deutsch>
+      <tuerkisch>Haber vermek / Bilgilendirmek</tuerkisch>
+      <satz>
+        <deutsch>Sag mir bitte Bescheid, ob du kommst.</deutsch>
+        <tuerkisch>Gelip gelmeyeceğini lütfen bana haber ver.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>für</deutsch>
+      <tuerkisch>... için</tuerkisch>
+      <satz>
+        <deutsch>Dieses Geschenk ist für dich.</deutsch>
+        <tuerkisch>Bu hediye senin için.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>LG (= Liebe Grüße)</deutsch>
+      <tuerkisch>Sevgi ve selamlarla</tuerkisch>
+      <satz>
+        <deutsch>Am Ende der Nachricht schreibt sie immer LG.</deutsch>
+        <tuerkisch>Mesajın sonuna her zaman 'LG' yazar.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>spätestens</deutsch>
+      <tuerkisch>En geç</tuerkisch>
+      <satz>
+        <deutsch>Sei spätestens um acht Uhr am Bahnhof.</deutsch>
+        <tuerkisch>En geç saat sekizde tren garında ol.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>übrigens</deutsch>
+      <tuerkisch>Bu arada / Aklıma gelmişken</tuerkisch>
+      <satz>
+        <deutsch>Übrigens, morgen ist Feiertag.</deutsch>
+        <tuerkisch>Bu arada, yarın tatil.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>vorbei</deutsch>
+      <tuerkisch>Geçmiş / Bitti / Yanından geçmek</tuerkisch>
+      <satz>
+        <deutsch>Der Sommer ist leider schon vorbei.</deutsch>
+        <tuerkisch>Yaz maalesef çoktan bitti.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>vorher</deutsch>
+      <tuerkisch>Önceden / Daha önce</tuerkisch>
+      <satz>
+        <deutsch>Essen Sie vorher etwas, die Sitzung ist lang.</deutsch>
+        <tuerkisch>Önce bir şeyler yiyin, toplantı uzun sürecek.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>weil</deutsch>
+      <tuerkisch>Çünkü / -diği için</tuerkisch>
+      <satz>
+        <deutsch>Ich bleibe heute zu Hause, weil ich krank bin.</deutsch>
+        <tuerkisch>Bugün evde kalıyorum, çünkü hastayım.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>allein</deutsch>
+      <tuerkisch>Yalnız / Tek başına</tuerkisch>
+      <satz>
+        <deutsch>Sie wohnt allein und das gefällt ihr.</deutsch>
+        <tuerkisch>O yalnız yaşıyor ve bundan memnun.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>außerdem</deutsch>
+      <tuerkisch>Ayrıca / Bundan başka</tuerkisch>
+      <satz>
+        <deutsch>Das Hotel ist teuer, außerdem ist es sehr laut.</deutsch>
+        <tuerkisch>Otel pahalı, ayrıca çok gürültülü.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>einverstanden</deutsch>
+      <tuerkisch>Anlaştık / Kabul / Onaylı</tuerkisch>
+      <satz>
+        <deutsch>Ich bin mit deinem Vorschlag einverstanden.</deutsch>
+        <tuerkisch>Senin önerine anlaştım.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>hinter - vor</deutsch>
+      <tuerkisch>Arkasında - Önünde</tuerkisch>
+      <satz>
+        <deutsch>Vor dem Haus ist ein Garten und dahinter ein Parkplatz.</deutsch>
+        <tuerkisch>Evin önünde bahçe, arkasında da otopark var.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>neben</deutsch>
+      <tuerkisch>Yanında</tuerkisch>
+      <satz>
+        <deutsch>Setz dich bitte neben mich.</deutsch>
+        <tuerkisch>Lütfen yanıma otur.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>niemand</deutsch>
+      <tuerkisch>Hiç kimse</tuerkisch>
+      <satz>
+        <deutsch>Niemand hat auf meine Frage geantwortet.</deutsch>
+        <tuerkisch>Soruma hiç kimse cevap vermedi.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>über - unter</deutsch>
+      <tuerkisch>Üstünde - Altında</tuerkisch>
+      <satz>
+        <deutsch>Die Lampe hängt über dem Tisch, der Teppich liegt darunter.</deutsch>
+        <tuerkisch>Lamba masanın üstünde asılı, altında halı duruyor.</tuerkisch>
+      </satz>
+    </eintrag>
+    <eintrag>
+      <deutsch>zwischen</deutsch>
+      <tuerkisch>Arasında</tuerkisch>
+      <satz>
+        <deutsch>Der Supermarkt ist zwischen der Bank und der Apotheke.</deutsch>
+        <tuerkisch>Market, banka ile eczanenin arasında.</tuerkisch>
+      </satz>
+    </eintrag>
+  </kategorie>
+</wortschatz>

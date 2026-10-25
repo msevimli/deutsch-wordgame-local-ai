@@ -1,0 +1,8 @@
+docker build -t lamp-stack .
+//docker run -p 8080:80 -p 3307:3306 -e MYSQL_ROOT_PASSWORD=root -it lamp-stack
+docker-compose up -d --build
+
+
+curl -X POST http://127.0.0.1:8000/translate \
+  -H "Content-Type: application/json" \
+  -d '{"text": "for example one of the most biggest city is Istanbul but capital city of Turkiye is Ankara", "source": "en_Latn", "target": "tur_Latn"}'

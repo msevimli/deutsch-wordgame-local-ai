@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wortschatz>
+  <seite number="3" image="personalpronomen_kasus.jpg">
+    
+    <kategorie name="Pro-Nominativ">
+      <eintrag>
+        <deutsch>ich</deutsch>
+        <tuerkisch>ben</tuerkisch>
+        <satz>
+          <deutsch>Ich lerne jeden Tag Deutsch.</deutsch>
+          <tuerkisch>Ben her gün Almanca öğreniyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>du</deutsch>
+        <tuerkisch>sen</tuerkisch>
+        <satz>
+          <deutsch>Du hast einen neuen Computer.</deutsch>
+          <tuerkisch>Senin yeni bir bilgisayarın var.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>er</deutsch>
+        <tuerkisch>o (eril)</tuerkisch>
+        <satz>
+          <deutsch>Er wohnt seit zwei Jahren in Berlin.</deutsch>
+          <tuerkisch>O iki yıldır Berlin'de yaşıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>sie</deutsch>
+        <tuerkisch>o (dişil)</tuerkisch>
+        <satz>
+          <deutsch>Sie arbeitet als Ingenieurin.</deutsch>
+          <tuerkisch>O mühendis olarak çalışıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>es</deutsch>
+        <tuerkisch>o (nötr)</tuerkisch>
+        <satz>
+          <deutsch>Das Kind spielt draußen, es ist sehr glücklich.</deutsch>
+          <tuerkisch>Çocuk dışarıda oynuyor, o çok mutlu.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>wir</deutsch>
+        <tuerkisch>biz</tuerkisch>
+        <satz>
+          <deutsch>Wir gehen heute Abend ins Kino.</deutsch>
+          <tuerkisch>Biz bu akşam sinemaya gidiyoruz.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>ihr</deutsch>
+        <tuerkisch>siz (çoğul / samimi)</tuerkisch>
+        <satz>
+          <deutsch>Seid ihr mit der Arbeit fertig?</deutsch>
+          <tuerkisch>Siz işle ilgili hazır mısınız?</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>sie (Plural)</deutsch>
+        <tuerkisch>onlar</tuerkisch>
+        <satz>
+          <deutsch>Sie kommen morgen zu Besuch.</deutsch>
+          <tuerkisch>Onlar yarın ziyarete geliyorlar.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>Sie (Höflichkeitsform)</deutsch>
+        <tuerkisch>Siz (resmi / nezaket)</tuerkisch>
+        <satz>
+          <deutsch>Haben Sie heute Zeit, Herr Müller?</deutsch>
+          <tuerkisch>Bugün vaktiniz var mı, Bay Müller?</tuerkisch>
+        </satz>
+      </eintrag>
+    </kategorie>
+
+    <kategorie name="Pro-Akkusativ">
+      <eintrag>
+        <deutsch>mich</deutsch>
+        <tuerkisch>beni</tuerkisch>
+        <satz>
+          <deutsch>Er ruft mich heute Abend an.</deutsch>
+          <tuerkisch>O beni bu akşam arıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>dich</deutsch>
+        <tuerkisch>seni</tuerkisch>
+        <satz>
+          <deutsch>Ich liebe dich sehr.</deutsch>
+          <tuerkisch>Seni çok seviyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>ihn</deutsch>
+        <tuerkisch>onu (eril)</tuerkisch>
+        <satz>
+          <deutsch>Ich kenne ihn seit der Schule.</deutsch>
+          <tuerkisch>Onu okuldan beri tanıyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>sie</deutsch>
+        <tuerkisch>onu (dişil)</tuerkisch>
+        <satz>
+          <deutsch>Wir besuchen sie am Wochenende.</deutsch>
+          <tuerkisch>Hafta sonu onu ziyaret ediyoruz.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>es</deutsch>
+        <tuerkisch>onu (nötr)</tuerkisch>
+        <satz>
+          <deutsch>Das Buch ist neu, ich lese es gerade.</deutsch>
+          <tuerkisch>Kitap yeni, şu an onu okuyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>uns</deutsch>
+        <tuerkisch>bizi</tuerkisch>
+        <satz>
+          <deutsch>Der Lehrer fragt uns etwas.</deutsch>
+          <tuerkisch>Öğretmen bize / bizi bir şey soruyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>euch</deutsch>
+        <tuerkisch>sizi (çoğul / samimi)</tuerkisch>
+        <satz>
+          <deutsch>Ich sehe euch auf dem Spielplatz.</deutsch>
+          <tuerkisch>Sizi oyun parkında görüyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>sie (Plural)</deutsch>
+        <tuerkisch>onları</tuerkisch>
+        <satz>
+          <deutsch>Ich lade sie zur Party ein.</deutsch>
+          <tuerkisch>Onları partiye davet ediyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>Sie (Höflichkeitsform)</deutsch>
+        <tuerkisch>sizi (resmi / nezaket)</tuerkisch>
+        <satz>
+          <deutsch>Ich verstehe Sie sehr gut, Frau Schmidt.</deutsch>
+          <tuerkisch>Sizi çok iyi anlıyorum, Bayan Schmidt.</tuerkisch>
+        </satz>
+      </eintrag>
+    </kategorie>
+
+    <kategorie name="Pro-Dativ">
+      <eintrag>
+        <deutsch>mir</deutsch>
+        <tuerkisch>bana</tuerkisch>
+        <satz>
+          <deutsch>Kannst du mir bitte helfen?</deutsch>
+          <tuerkisch>Bana yardım edebilir misin lütfen?</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>dir</deutsch>
+        <tuerkisch>sana</tuerkisch>
+        <satz>
+          <deutsch>Ich wünsche dir viel Erfolg.</deutsch>
+          <tuerkisch>Sana bol başarılar dilerim.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>ihm</deutsch>
+        <tuerkisch>ona (eril)</tuerkisch>
+        <satz>
+          <deutsch>Das Auto gehört ihm.</deutsch>
+          <tuerkisch>Araba ona ait.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>ihr</deutsch>
+        <tuerkisch>ona (dişil)</tuerkisch>
+        <satz>
+          <deutsch>Ich gebe ihr einen Blumenstrauß.</deutsch>
+          <tuerkisch>Ona bir çiçek demeti veriyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>ihm</deutsch>
+        <tuerkisch>ona (nötr)</tuerkisch>
+        <satz>
+          <deutsch>Dem Kind ist kalt, ich gebe ihm eine Jacke.</deutsch>
+          <tuerkisch>Çocuk üşüyor, ona bir ceket veriyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>uns</deutsch>
+        <tuerkisch>bize</tuerkisch>
+        <satz>
+          <deutsch>Das Haus gefällt uns sehr gut.</deutsch>
+          <tuerkisch>Ev bizim çok hoşumuza gidiyor (bize hitap ediyor).</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>euch</deutsch>
+        <tuerkisch>size (çoğul / samimi)</tuerkisch>
+        <satz>
+          <deutsch>Ich schicke euch die Adresse per E-Mail.</deutsch>
+          <tuerkisch>Adresi size e-posta ile gönderiyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>ihnen</deutsch>
+        <tuerkisch>onlara</tuerkisch>
+        <satz>
+          <deutsch>Ich antworte ihnen morgen.</deutsch>
+          <tuerkisch>Onlara yarın cevap vereceğim.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>Ihnen (Höflichkeitsform)</deutsch>
+        <tuerkisch>size (resmi / nezaket)</tuerkisch>
+        <satz>
+          <deutsch>Wie kann ich Ihnen helfen?</deutsch>
+          <tuerkisch>Size nasıl yardımcı olabilirim?</tuerkisch>
+        </satz>
+      </eintrag>
+    </kategorie>
+
+  </seite>
+</wortschatz>

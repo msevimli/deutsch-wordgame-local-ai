@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wortschatz>
+  <seite number="1" image="20260824_231041.jpg">
+    <kategorie name="Nomen">
+      <eintrag>
+        <deutsch>die Autobahn, -en</deutsch>
+        <tuerkisch>Otoyol, Otoban</tuerkisch>
+        <satz>
+          <deutsch>Auf der Autobahn fahren die Autos sehr schnell.</deutsch>
+          <tuerkisch>Otoyolda arabalar çok hızlı gidiyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Bahn, -en</deutsch>
+        <tuerkisch>Tren, Demiryolu</tuerkisch>
+        <satz>
+          <deutsch>Ich fahre jeden Tag mit der Bahn zur Arbeit.</deutsch>
+          <tuerkisch>Her gün işe trenle gidiyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Bahnsteig, -e</deutsch>
+        <tuerkisch>Peron</tuerkisch>
+        <satz>
+          <deutsch>Der Zug wartet am Bahnsteig 3.</deutsch>
+          <tuerkisch>Tren 3. peronda bekliyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Batterie, -n</deutsch>
+        <tuerkisch>Pil, Akü</tuerkisch>
+        <satz>
+          <deutsch>Die Uhr braucht eine neue Batterie.</deutsch>
+          <tuerkisch>Saatin yeni bir pile ihtiyacı var.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Behinderung, -en</deutsch>
+        <tuerkisch>Engellilik, Engel</tuerkisch>
+        <satz>
+          <deutsch>Der Aufzug hilft Menschen mit einer Behinderung.</deutsch>
+          <tuerkisch>Asansör engelli insanlara yardım ediyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>das Benzin (Sg.)</deutsch>
+        <tuerkisch>Benzin</tuerkisch>
+        <satz>
+          <deutsch>Das Benzin an der Tankstelle ist heute sehr teuer.</deutsch>
+          <tuerkisch>Benzinlikteki benzin bugün çok pahalı.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Bremse, -n</deutsch>
+        <tuerkisch>Fren</tuerkisch>
+        <satz>
+          <deutsch>Er muss die Bremse am Fahrrad reparieren.</deutsch>
+          <tuerkisch>Bisikletin frenini tamir etmesi gerekiyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Bürgersteig, -e</deutsch>
+        <tuerkisch>Kaldırım</tuerkisch>
+        <satz>
+          <deutsch>Fußgänger gehen auf dem Bürgersteig.</deutsch>
+          <tuerkisch>Yayalar kaldırımda yürür.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Chance, -n</deutsch>
+        <tuerkisch>Şans, Fırsat</tuerkisch>
+        <satz>
+          <deutsch>Das ist eine gute Chance für mich.</deutsch>
+          <tuerkisch>Bu benim için iyi bir fırsat.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>das Dorf, Dörfer</deutsch>
+        <tuerkisch>Köy</tuerkisch>
+        <satz>
+          <deutsch>Meine Großeltern wohnen in einem kleinen Dorf.</deutsch>
+          <tuerkisch>Büyükanne ve büyükbabam küçük bir köyde yaşıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>das Fahrrad, Fahrräder</deutsch>
+        <tuerkisch>Bisiklet</tuerkisch>
+        <satz>
+          <deutsch>Im Sommer fahre ich oft Fahrrad.</deutsch>
+          <tuerkisch>Yazın sık sık bisiklete binerim.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Fahrplan, -pläne</deutsch>
+        <tuerkisch>Tarife, Sefer planı</tuerkisch>
+        <satz>
+          <deutsch>Ich schaue kurz auf den Fahrplan.</deutsch>
+          <tuerkisch>Kısaca sefer planına bakıyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Flughafen, Flughäfen</deutsch>
+        <tuerkisch>Havalimanı</tuerkisch>
+        <satz>
+          <deutsch>Wir fahren mit dem Taxi zum Flughafen.</deutsch>
+          <tuerkisch>Taksi ile havalimanına gidiyoruz.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Fußgänger, -</deutsch>
+        <tuerkisch>Yaya (Erkek)</tuerkisch>
+        <satz>
+          <deutsch>Der Fußgänger wartet an der Ampel.</deutsch>
+          <tuerkisch>Yaya ışıklarda bekliyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Fußgängerin, -nen</deutsch>
+        <tuerkisch>Yaya (Kadın)</tuerkisch>
+        <satz>
+          <deutsch>Die Fußgängerin überquert die Straße.</deutsch>
+          <tuerkisch>Yaya caddeyi karşya geçiyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Haltestelle, -n</deutsch>
+        <tuerkisch>Durak</tuerkisch>
+        <satz>
+          <deutsch>Der Bus wartet an der Haltestelle.</deutsch>
+          <tuerkisch>Otobüs durakta bekliyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Helm, -e</deutsch>
+        <tuerkisch>Kask, Miğfer</tuerkisch>
+        <satz>
+          <deutsch>Beim Fahrradfahren trage ich immer einen Helm.</deutsch>
+          <tuerkisch>Bisiklet sürerken her zaman kask takarım.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Hitze (Sg.)</deutsch>
+        <tuerkisch>Sıcaklık, Aşırı sıcak</tuerkisch>
+        <satz>
+          <deutsch>Im Juli gibt es oft große Hitze.</deutsch>
+          <tuerkisch>Temmuz ayında sık sık büyük bir sıcaklık olur.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Kälte (Sg.)</deutsch>
+        <tuerkisch>Soğuk</tuerkisch>
+        <satz>
+          <deutsch>Die Kälte im Winter mag ich nicht.</deutsch>
+          <tuerkisch>Kışın soğuğunu sevmiyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Kinderwagen, -</deutsch>
+        <tuerkisch>Bebek arabası</tuerkisch>
+        <satz>
+          <deutsch>Die Mutter schiebt den Kinderwagen.</deutsch>
+          <tuerkisch>Anne bebek arabasını itiyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Klingel, -n</deutsch>
+        <tuerkisch>Zil</tuerkisch>
+        <satz>
+          <deutsch>Die Klingel an der Tür funktioniert nicht.</deutsch>
+          <tuerkisch>Kapıdaki zil çalışmıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Parkplatz, -plätze</deutsch>
+        <tuerkisch>Otopark, Park yeri</tuerkisch>
+        <satz>
+          <deutsch>Hier gibt es leider keinen freien Parkplatz.</deutsch>
+          <tuerkisch>Burada maalesef boş otopark yeri yok.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Regen (Sg.)</deutsch>
+        <tuerkisch>Yağmur</tuerkisch>
+        <satz>
+          <deutsch>Der Regen hört bald auf.</deutsch>
+          <tuerkisch>Yağmur yakında duracak.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Reifen, -</deutsch>
+        <tuerkisch>Lastik</tuerkisch>
+        <satz>
+          <deutsch>Mein Auto braucht neue Reifen.</deutsch>
+          <tuerkisch>Arabamın yeni lastiklere ihtiyacı var.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Rollstuhl, -stühle</deutsch>
+        <tuerkisch>Tekerlekli sandalye</tuerkisch>
+        <satz>
+          <deutsch>Er sitzt seit dem Unfall im Rollstuhl.</deutsch>
+          <tuerkisch>Kazadan beri tekerlekli sandalyede oturuyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Schnee (Sg.)</deutsch>
+        <tuerkisch>Kar</tuerkisch>
+        <satz>
+          <deutsch>Im Dezember liegt viel Schnee.</deutsch>
+          <tuerkisch>Aralık ayında çok kar var.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Sonne, -n</deutsch>
+        <tuerkisch>Güneş</tuerkisch>
+        <satz>
+          <deutsch>Die Sonne scheint heute sehr hell.</deutsch>
+          <tuerkisch>Güneş bugün çok parlak açıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Stau, -s</deutsch>
+        <tuerkisch>Trafik sıkışıklığı</tuerkisch>
+        <satz>
+          <deutsch>Wir stehen seit einer Stunde im Stau.</deutsch>
+          <tuerkisch>Bir saattir trafikte bekliyoruz.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Straßenbahn, -en</deutsch>
+        <tuerkisch>Tramvay</tuerkisch>
+        <satz>
+          <deutsch>Die Straßenbahn kommt in fünf Minuten.</deutsch>
+          <tuerkisch>Tramvay beş dakika içinde geliyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Strecke, -n</deutsch>
+        <tuerkisch>Mesafe, Güzergah, Hat</tuerkisch>
+        <satz>
+          <deutsch>Die Strecke zwischen Berlin und München ist lang.</deutsch>
+          <tuerkisch>Berlin ile Münih arasındaki mesafe uzun.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>das Taxi, -s</deutsch>
+        <tuerkisch>Taksi</tuerkisch>
+        <satz>
+          <deutsch>Wir nehmen ein Taxi zum Bahnhof.</deutsch>
+          <tuerkisch>İstasyona gitmek için bir taksiye biniyoruz.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Temperatur, -en</deutsch>
+        <tuerkisch>Sıcaklık, Derece</tuerkisch>
+        <satz>
+          <deutsch>Die Temperatur steigt heute auf 25 Grad.</deutsch>
+          <tuerkisch>Sıcaklık bugün 25 dereceye yükseliyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die U-Bahn, -en</deutsch>
+        <tuerkisch>Metro</tuerkisch>
+        <satz>
+          <deutsch>Die U-Bahn fährt schnell durch die Stadt.</deutsch>
+          <tuerkisch>Metro şehirde hızlı hareket ediyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>der Unfall, Unfälle</deutsch>
+        <tuerkisch>Kaza</tuerkisch>
+        <satz>
+          <deutsch>Zum Glück gab es bei dem Unfall keine Verletzten.</deutsch>
+          <tuerkisch>Neyse ki kazada yaralanan olmadı.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>das Verkehrsmittel, -</deutsch>
+        <tuerkisch>Ulaşım aracı</tuerkisch>
+        <satz>
+          <deutsch>Das Fahrrad ist ein umweltfreundliches Verkehrsmittel.</deutsch>
+          <tuerkisch>Bisiklet çevre dostu bir ulaşım aracıdır.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>die Verspätung, -en</deutsch>
+        <tuerkisch>Gecikme, Rötar</tuerkisch>
+        <satz>
+          <deutsch>Der Zug hat 15 Minuten Verspätung.</deutsch>
+          <tuerkisch>Trenin 15 dakika gecikmesi var.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>das Wetter (Sg.)</deutsch>
+        <tuerkisch>Hava durumu</tuerkisch>
+        <satz>
+          <deutsch>Das Wetter ist heute sehr schön.</deutsch>
+          <tuerkisch>Hava bugün çok güzel.</tuerkisch>
+        </satz>
+      </eintrag>
+    </kategorie>
+
+    <kategorie name="Verben">
+      <eintrag>
+        <deutsch>aussteigen – einsteigen</deutsch>
+        <tuerkisch>Araçtan inmek – Araca binmek</tuerkisch>
+        <satz>
+          <deutsch>Viele Passagiere steigen aus und neue steigen ein.</deutsch>
+          <tuerkisch>Birçok yolcu iniyor ve yenileri biniyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>regnen</deutsch>
+        <tuerkisch>Yağmur yağmak</tuerkisch>
+        <satz>
+          <deutsch>Es regnet heute den ganzen Tag.</deutsch>
+          <tuerkisch>Bugün bütün gün yağmur yağıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>scheinen</deutsch>
+        <tuerkisch>Parlamak, Işıldamak</tuerkisch>
+        <satz>
+          <deutsch>Die Sonne scheint den ganzen Nachmittag.</deutsch>
+          <tuerkisch>Güneş tüm öğleden sonra parlıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>schneien</deutsch>
+        <tuerkisch>Kar yağmak</tuerkisch>
+        <satz>
+          <deutsch>Im Winter schneit es in den Bergen oft.</deutsch>
+          <tuerkisch>Kışın dağlarda sık sık kar yağar.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>transportieren</deutsch>
+        <tuerkisch>Taşımak, Nakletmek</tuerkisch>
+        <satz>
+          <deutsch>Der LKW transportiert neue Möbel.</deutsch>
+          <tuerkisch>Kamyon yeni mobilyaları taşıyor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>umsteigen</deutsch>
+        <tuerkisch>Aktarma yapmak (Araç değiştirmek)</tuerkisch>
+        <satz>
+          <deutsch>Wir müssen am Hauptbahnhof umsteigen.</deutsch>
+          <tuerkisch>Merkez istasyonda aktarma yapmamız gerekiyor.</tuerkisch>
+        </satz>
+      </eintrag>
+    </kategorie>
+
+    <kategorie name="Adjektive">
+      <eintrag>
+        <deutsch>alt – jung</deutsch>
+        <tuerkisch>Yaşlı (Eski) – Genç</tuerkisch>
+        <satz>
+          <deutsch>Mein Opa ist alt, aber mein Bruder ist jung.</deutsch>
+          <tuerkisch>Dedem yaşlı ama erkek kardeşim genç.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>bequem</deutsch>
+        <tuerkisch>Rahat, Konforlu</tuerkisch>
+        <satz>
+          <deutsch>Der Stuhl im Büro ist sehr bequem.</deutsch>
+          <tuerkisch>Ofisteki sandalye çok rahat.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>einfach – schwierig</deutsch>
+        <tuerkisch>Kolay – Zor</tuerkisch>
+        <satz>
+          <deutsch>Diese Aufgabe ist einfach, aber die nächste ist schwierig.</deutsch>
+          <tuerkisch>Bu ödev kolay ama bir sonraki zor.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>gefährlich – sicher</deutsch>
+        <tuerkisch>Tehlikeli – Güvenli</tuerkisch>
+        <satz>
+          <deutsch>Schnell fahren ist gefährlich, aber mit Helm ist es sicherer.</deutsch>
+          <tuerkisch>Hızlı sürmek tehlikelidir ama kaskla daha güvenlidir.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>hoch</deutsch>
+        <tuerkisch>Yüksek</tuerkisch>
+        <satz>
+          <deutsch>Das Gebäude ist sehr hoch.</deutsch>
+          <tuerkisch>Bina çok yüksek.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>hart</deutsch>
+        <tuerkisch>Sert, Zor</tuerkisch>
+        <satz>
+          <deutsch>Das Brot ist schon alt und hart.</deutsch>
+          <tuerkisch>Ekmek zaten eski ve sert.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>kalt – warm</deutsch>
+        <tuerkisch>Soğuk – Sıcak (Ilık)</tuerkisch>
+        <satz>
+          <deutsch>Im Winter ist es kalt, im Sommer warm.</deutsch>
+          <tuerkisch>Kışın soğuktur, yazın sıcak.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>klug</deutsch>
+        <tuerkisch>Akıllı, Zeki</tuerkisch>
+        <satz>
+          <deutsch>Sie hat eine sehr kluge Antwort gegeben.</deutsch>
+          <tuerkisch>O çok akıllıca bir cevap verdi.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>mobil</deutsch>
+        <tuerkisch>Hareketli, Mobil</tuerkisch>
+        <satz>
+          <deutsch>Mit einem Auto ist man in der Stadt sehr mobil.</deutsch>
+          <tuerkisch>Bir araba ile şehirde çok hareketli (özgür) olursunuz.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>nass</deutsch>
+        <tuerkisch>Islak</tuerkisch>
+        <satz>
+          <deutsch>Meine Jacke ist wegen des Regens nass.</deutsch>
+          <tuerkisch>Ceketim yağmur yüzünden ıslak.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>öffentlich – privat</deutsch>
+        <tuerkisch>Kamusal (Açık) – Özel (Kişisel)</tuerkisch>
+        <satz>
+          <deutsch>Ich nutze oft öffentliche Verkehrsmittel.</deutsch>
+          <tuerkisch>Sık sık toplu taşıma (kamusal ulaşım) araçlarını kullanırım.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>praktisch</deutsch>
+        <tuerkisch>Pratik, Kullanışlı</tuerkisch>
+        <satz>
+          <deutsch>Eine kleine Tasche ist im Urlaub sehr praktisch.</deutsch>
+          <tuerkisch>Küçük bir çanta tatilde çok pratiktir.</tuerkisch>
+        </satz>
+      </eintrag>
+    </kategorie>
+
+    <kategorie name="andere Wörter">
+      <eintrag>
+        <deutsch>ab und zu</deutsch>
+        <tuerkisch>Bazen, Zaman zaman</tuerkisch>
+        <satz>
+          <deutsch>Ich gehe ab und zu ins Kino.</deutsch>
+          <tuerkisch>Bazen sinemaya giderim.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>so ... wie</deutsch>
+        <tuerkisch>... kadar</tuerkisch>
+        <satz>
+          <deutsch>Er ist genauso alt wie sein Freund.</deutsch>
+          <tuerkisch>O, arkadaşı kadar yaşlı (aynı yaşta).</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>wenn</deutsch>
+        <tuerkisch>Eğer, ... zaman (-dığı zaman)</tuerkisch>
+        <satz>
+          <deutsch>Wenn es regnet, bleibe ich zu Hause.</deutsch>
+          <tuerkisch>Yağmur yağdığı zaman evde kalırım.</tuerkisch>
+        </satz>
+      </eintrag>
+      <eintrag>
+        <deutsch>zu Fuß</deutsch>
+        <tuerkisch>Yürüyerek, Yaya olarak</tuerkisch>
+        <satz>
+          <deutsch>Ich gehe jeden Morgen zu Fuß zur Schule.</deutsch>
+          <tuerkisch>Her sabah okula yürüyerek gidiyorum.</tuerkisch>
+        </satz>
+      </eintrag>
+    </kategorie>
+  </seite>
+</wortschatz>
