@@ -11,6 +11,12 @@ an SQLite word database.
 
 ---
 
+## Screenshot
+
+![Deutsch WordGame screenshot](Screenshot.png)
+
+---
+
 ## Features
 
 - **Flashcard word trainer** — flip cards to reveal Turkish translations, filter
