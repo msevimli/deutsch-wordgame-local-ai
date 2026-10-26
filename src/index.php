@@ -6,7 +6,7 @@ require __DIR__ . '/header.php'; ?>
 
 <main class="hero">
   <h1>Welcome to MyWordGame</h1>
-  <p>A minimal web site for language learning process supported by local ai model <strong>facebook/nllb-200-distilled-600M</strong></p>
+  <p>A minimal web site for language learning process supported by local ai model <a href="https://huggingface.co/facebook/nllb-200-distilled-600M" target="_blank"><strong>facebook/nllb-200-distilled-600M</strong></a></p>
   <?php if ($loggedIn): ?>
     <a class="btn" href="dashboard.php">Go to Dashboard</a>
     or
