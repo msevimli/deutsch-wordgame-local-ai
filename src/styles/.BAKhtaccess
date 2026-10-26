@@ -1,5 +1,0 @@
-Options -Indexes
-
-<FilesMatch "\.(sqlite|db|sqlite3)$">
-  Require all denied
-</FilesMatch>
